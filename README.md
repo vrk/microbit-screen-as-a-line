@@ -1,6 +1,8 @@
 
 > Open this page at [https://vrk.github.io/microbit-screen-as-a-line/](https://vrk.github.io/microbit-screen-as-a-line/)
 
+> Followed the tutorial at [https://www.youtube.com/watch?v=ztrm4XehfGo](https://www.youtube.com/watch?v=ztrm4XehfGo)
+
 ## Usage
 
 ### ``plotAt``
